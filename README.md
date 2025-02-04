@@ -32,6 +32,7 @@ Finally, to run your app enter `python main.py start`. Now, on `https://agents-p
 
 ## Use example
 
+![img_9](assets/Screenshot12.png)
 
 #### 1) This shows the creation and retrieval of Google Calendar
 
