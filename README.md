@@ -51,11 +51,8 @@ Finally, to run your app enter `python main.py start`. Now, on `https://agents-p
 
 ![img_4](assets/Screenshot08.png)
 
-
-Email draft:
 ![img_5](assets/Screenshot09.png)
 
-Sent mail:
 ![img_6](assets/Screenshot10.png)
 
 
