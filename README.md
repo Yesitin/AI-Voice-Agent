@@ -65,5 +65,3 @@ Finally, to run your app enter `python main.py start`. Now, on `https://agents-p
 ![img_8](assets/Screenshot01.png)
 
 ![img_9](assets/Screenshot02.png)
-
-![img_10](assets/Screenshot03.png)
