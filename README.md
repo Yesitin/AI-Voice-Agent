@@ -36,6 +36,7 @@ Finally, to run your app enter `python main.py start`. Now, on `https://agents-p
 
 ## Use example
 
+
 #### 1) This shows the creation and retrieval of Google Calendar
 
 ![img_1](assets/Screenshot04.png)
@@ -44,17 +45,26 @@ Finally, to run your app enter `python main.py start`. Now, on `https://agents-p
 
 ![img_3](assets/Screenshot06.png)
 
+
+
 #### 2) This show the creation of the mail draft and the sending of a mail
 
 ![img_4](assets/Screenshot08.png)
 
+
+Email draft:
 ![img_5](assets/Screenshot09.png)
 
+Sent mail:
 ![img_6](assets/Screenshot10.png)
+
+
 
 #### 3) Agent can query Database based on some customer name (functionality of database can easily be adjusted)
 
 ![img_7](assets/Screenshot11.png)
+
+
 
 #### 4) The first time you use Gmail or Calendar you have to go through the athentication process for each
 
