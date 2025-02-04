@@ -1,8 +1,4 @@
 # AI-Voice-Agent
-Voice-Agent to executes spoken commands on Google Cloud Calendar, Gmail, SQL Database or generic questions
-
-# AI-Voice-Agent
-Voice Agent to perform tasks on Google Cloud Gmail, Calendar and SQL Database
 
 This AI-Voice-Agent is able to perform various tasks based on your voice commands. It is able to access Google Cloud Gmail and Calendar. It can create Gmail drafts, send emails, create calendar entries and tell you about upcoming events. Furthermore, it is able to access a SQL Database to retrieve and create new entries.
 
