@@ -60,7 +60,7 @@ Finally, to run your app enter `python main.py start`. Now, on `https://agents-p
 
 
 
-#### 4) The first time you use Gmail or Calendar you have to go through the athentication process for each
+#### 4) The first time you use Gmail or Calendar you have to go through the authentication process for each one
 
 ![img_8](assets/Screenshot01.png)
 
